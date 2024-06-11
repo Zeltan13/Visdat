@@ -1,0 +1,18 @@
+:root {
+  --foundationbluedark-active: rgba(31, 49, 85, 1);
+  --secondary: rgba(253, 152, 58, 1);
+  --normal-text-font-family: "Poppins", Helvetica;
+  --normal-text-font-weight: 400;
+  --normal-text-font-size: 20px;
+  --normal-text-letter-spacing: 0px;
+  --normal-text-line-height: normal;
+  --normal-text-font-style: normal;
+  --button-text-font-family: "Poppins", Helvetica;
+  --button-text-font-weight: 500;
+  --button-text-font-size: 20px;
+  --button-text-letter-spacing: 0px;
+  --button-text-line-height: normal;
+  --button-text-font-style: normal;
+  --spacing-space5: 40px;
+  --spacing-space3: 24px;
+}
